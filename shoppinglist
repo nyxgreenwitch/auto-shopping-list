@@ -8,5 +8,6 @@ replenish = []
 print("list of food: "+food)
 print("list of cleaninflg supplies: "+cleaning-sup)
 
-replenish = input("enter items you've run out of)
+replenish = input("enter items you've run out of")
 
+hello alice
