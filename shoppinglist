@@ -10,4 +10,5 @@ print("list of cleaninflg supplies: "+cleaning-sup)
 
 replenish = input("enter items you've run out of")
 
-hello alice
+#hello alice
+# can you see this?
