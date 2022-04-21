@@ -12,7 +12,7 @@ def add-food:
 
 
 print("list of food: "+food)
-print("list of cleaninflg supplies: "+cleaning-sup)
+print("list of cleaning supplies: "+cleaning-sup)
 
 replenish = input("enter items you've run out of")
 
