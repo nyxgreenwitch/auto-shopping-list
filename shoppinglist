@@ -5,9 +5,9 @@ food = []
 cleaning-sup = []
 replenish = []
 
-def add-food
-print('food:')
-food = input()
+def add-food:
+  print('food:')
+  food = input()
 
 
 
